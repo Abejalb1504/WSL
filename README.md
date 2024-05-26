@@ -7,3 +7,4 @@ Guía de instalación y descripción de Windows Subsystem Linux.
 4. Procesos asociados al WSL
 ---
 ## Referencias
+* [Contando Bits](https://www.youtube.com/watch?v=lt4UtlUzx9w)
