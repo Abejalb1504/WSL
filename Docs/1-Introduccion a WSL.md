@@ -44,5 +44,5 @@ Por otro lado, aunque WSL ofrece muchas ventajas, no es la mejor opción para to
 Tampoco es adecuado para procesos que demandan un rendimiento intensivo, ya que el rendimiento de WSL puede no ser óptimo en comparación con un entorno Linux nativo. 
 Además, en entornos con altos requisitos de seguridad o necesidades de compatibilidad total con hardware, es preferible optar por soluciones que ofrezcan un mayor control y aislamiento.
 
-[Volver](/Readme.md)
+[Volver](/README.md)
 
