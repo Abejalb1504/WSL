@@ -1,7 +1,7 @@
 # WSL
 Guía de instalación y descripción de Windows Subsystem Linux.
 ## Indice
-1. [Introducción: ¿Qué es WSL?](/Docs/"1-Introduccion-a-WSL.md")
+1. [Introducción: ¿Qué es WSL?](Docs/1-Introduccion-a-WSL.md)
 2. Instalación
 3. Debian y Ubuntu en linux
 4. Procesos asociados al WSL
